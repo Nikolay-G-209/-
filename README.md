@@ -8,4 +8,5 @@ public class HelloWorld
         Console.WriteLine("значение выражения"+ d);
         Console.ReadKey();
     }
+}
 
